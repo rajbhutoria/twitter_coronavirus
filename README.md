@@ -1,3 +1,8 @@
+# Project - Explanation of Results
+
+Through the use of shell, MapReduce, and the 2020 dataset of geo-located tweets, I was able to successfully clean, process, and visualize Twitter 2020 hashtag trends to understand the development of COVID-related discussions on social media. I have developed two key visualizations for each hashtag -- to determine both the tweet's language and country of origin. These visualiztion files have been stored in the ./viz directory, where each hashtag has both a ".lang" and a ".country" file. The results will consist of the few most-mentioned languages and countries, removing those with minor representation in the dataset.
+
+
 # Coronavirus twitter analysis
 
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
